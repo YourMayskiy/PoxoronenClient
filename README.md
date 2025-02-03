@@ -1,6 +1,6 @@
 # PoxoronenClient
 
-![poxoronen](https://imgur.com/undefined)
+![poxoronen](https://imgur.com/a/Xn9mzJm)
 
 ## Поистине легендарная сборка майнкрафт теперь на гитхаб!
 
